@@ -1,0 +1,14 @@
+dir - Lista os diretorios da pasta atual
+cd / - sobre o nível para o diretório "c:"
+cd+nome_da_pasta - navega para a pasta escolhida(desce nível)
+cd .. - volta uma pasta acima(sobre nível)
+cls - Limpar a tela
+cd + A promeira letra de uma pasta depois clica em tab ele prenche como nome da pasta automaticamente
+mkdir + nome_da_pasta - criar uma pasta
+echo hello > hello.txt - cria uma arquivo
+del + nome - deleta arquivos
+rmdir + nome /S /Q - deleta diretório
+
+SHA1 - Algorítimo de incriptação 40 dígitos/carcteres unicos
+
+openssl sha1 + nome - Comando e incriptação
